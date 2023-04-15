@@ -15,14 +15,14 @@ namespace CS458FinalProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Fake Target - Not Just The Best, The Very Best!.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Thank you for reaching out to Fake Target.";
 
             return View();
         }
