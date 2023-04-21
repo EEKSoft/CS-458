@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 
-!App_Data/
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -216,14 +216,7 @@ csx/
 ecf/
 rcf/
 
-# Windows Store app package directories and files
-AppPackages/
-BundleArtifacts/
-Package.StoreAssociation.xml
-_pkginfo.txt
-*.appx
-*.appxbundle
-*.appxupload
+
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -263,10 +256,7 @@ UpgradeLog*.htm
 ServiceFabricBackup/
 *.rptproj.bak
 
-# SQL Server files
-*.mdf
-*.ldf
-*.ndf
+
 
 # Business Intelligence projects
 *.rdl.data
