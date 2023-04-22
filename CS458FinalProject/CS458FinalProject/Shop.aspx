@@ -4,12 +4,22 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Shop</title>
+    <style type="text/css">
+        #form1 {
+            height: 431px;
+        }
+    </style>
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+        <div>Shop
         </div>
+        <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="Electronics" DataTextField="Product_Name" DataValueField="Product_Name" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+        </asp:DropDownList>
+        <asp:SqlDataSource ID="Electronics" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT [Product_Name] FROM [Electronics]"></asp:SqlDataSource>
+        <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged" Width="298px"></asp:TextBox>
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
     </form>
 </body>
 </html>

@@ -230,7 +230,6 @@ C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalPro
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\bin\Newtonsoft.Json.xml
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\bin\Antlr3.Runtime.pdb
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.csproj.AssemblyReference.cache
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.csproj.CopyComplete
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.dll
