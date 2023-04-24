@@ -17,10 +17,8 @@ namespace CS458FinalProject
 
         protected void DropDownList1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
-            
-            selectItem = DropDownList1.Text.ToString();
-            
+            TextBox1.Text = DropDownList1.Text.ToString();
+            //var prices = ;
         }
 
         protected void TextBox1_TextChanged(object sender, EventArgs e)
@@ -30,7 +28,7 @@ namespace CS458FinalProject
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            TextBox1.Text = selectItem;
+           
         }
     }
 }
