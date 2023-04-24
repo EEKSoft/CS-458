@@ -19,7 +19,7 @@
         </asp:DropDownList>
         <asp:SqlDataSource ID="TestDataBase" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString2 %>" SelectCommand="SELECT [Product Name] AS Product_Name FROM [Table]"></asp:SqlDataSource>
         <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged" Width="298px"></asp:TextBox>
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Add to Cart" />
     </form>
 </body>
 </html>

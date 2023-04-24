@@ -237,7 +237,6 @@ D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\System.Web.WebPages.Raz
 D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\Newtonsoft.Json.xml
 D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\Antlr3.Runtime.pdb
 D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.csproj.AssemblyReference.cache
 D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.csproj.CoreCompileInputs.cache
 D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.csproj.CopyComplete
 D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\obj\Debug\CS458FinalProject.dll
