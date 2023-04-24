@@ -152,6 +152,10 @@
     <Content Include="App_Data\StoreDB_log.ldf">
       <DependentUpon>StoreDB.mdf</DependentUpon>
     </Content>
+    <Content Include="App_Data\TestDB.mdf" />
+    <Content Include="App_Data\TestDB_log.ldf">
+      <DependentUpon>TestDB.mdf</DependentUpon>
+    </Content>
     <Content Include="Cart.aspx" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />

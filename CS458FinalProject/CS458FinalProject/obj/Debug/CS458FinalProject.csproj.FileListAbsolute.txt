@@ -238,3 +238,7 @@ C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalPro
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.SqlServer.dll
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.xml
 C:\Users\User\source\repos\CS458FinalRepo\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.SqlServer.xml
+D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.dll
+D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.SqlServer.dll
+D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.xml
+D:\GitHub\CS-458\CS458FinalProject\CS458FinalProject\bin\EntityFramework.SqlServer.xml
