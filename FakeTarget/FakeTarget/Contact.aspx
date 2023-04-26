@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Cart.aspx.cs" Inherits="FakeTarget.WebForm2" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="FakeTarget.Contact" %>
 
 
 
@@ -7,7 +7,7 @@
 <head runat ="server">
 
     <link rel="stylesheet" href="AboutUs.css">
-<title>About Us</title>
+<title>Contact</title>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -25,11 +25,11 @@
      
       
       </div>
-<h1>Cart</h1>
+<h1>Contact</h1>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>You can reach out to us by call, text, or email.</p>
+<p>812-123-4567</p>
+<p>faketarget@gmail.com</p>
 
 
 <p></p>

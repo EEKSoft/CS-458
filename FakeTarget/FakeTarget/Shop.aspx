@@ -14,8 +14,8 @@
   <a href="Default.aspx" class="active">Home</a>
   <a href="Shop.aspx">Shop</a>
   <a href="Cart.aspx">Cart</a>
-  <%--<a href="#">Services</a>
-  <a href="#">Contact</a>--%>
+  <a href="Services.aspx">Services</a>
+  <a href="Contact.aspx">Contact</a>
 
   <a href="#" class="right"><input type="text" placeholder="Search.."></a>
 
