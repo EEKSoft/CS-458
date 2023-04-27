@@ -24,8 +24,13 @@ namespace FakeTarget
         protected void Button1_Click(object sender, EventArgs e)
         {
             selectItem = DropDownList1.Text.ToString();
-            TextBox1.Text = selectItem;
-            //TextBox2.Text = selectItemPrice;
+            selectItemPrice = GridView1.SelectedRow.Cells[2].Text;
+            TextBox1.Text = selectItem + " = " + selectItemPrice;
+        }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            Cart.cartTotal += Convert.ToInt32(GridView1.SelectedRow.Cells[2].Text);
         }
     }
 }

@@ -68,9 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutUs.css" />
-    <Content Include="App_Data\StoreDB.mdf" />
-    <Content Include="App_Data\StoreDB_log.ldf">
-      <DependentUpon>StoreDB.mdf</DependentUpon>
+    <Content Include="App_Data\TestDB.mdf" />
+    <Content Include="App_Data\TestDB_log.ldf">
+      <DependentUpon>TestDB.mdf</DependentUpon>
     </Content>
     <Content Include="automotive-antifreeze.jpg" />
     <Content Include="automotive.aspx" />
@@ -192,7 +192,6 @@
     </Compile>
     <Compile Include="Cart.aspx.cs">
       <DependentUpon>Cart.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Cart.aspx.designer.cs">
       <DependentUpon>Cart.aspx</DependentUpon>
